@@ -4,7 +4,7 @@
 
 This project analyzes e-commerce sales, product performance, profitability, and customer demographics using Python, MySQL, and Power BI.
 
-The goal is to identify key business trends, understand product and category performance, and present the findings through an interactive Power BI dashboard.
+The goal is to identify key business insights, understand product and category performance, and present the findings through an interactive Power BI dashboard.
 
 ## 🎯 Objectives
 
@@ -14,7 +14,7 @@ The goal is to identify key business trends, understand product and category per
 - Analyze customer demographics
 - Identify customer distribution by state and city
 - Build an interactive Power BI dashboard
-- Practice Python data analysis and SQL querying
+- Practice Python, SQL, MySQL, and Power BI skills
 
 ## 🛠️ Tools & Technologies
 
@@ -22,7 +22,7 @@ The goal is to identify key business trends, understand product and category per
   - Pandas
   - Matplotlib
 - **MySQL**
-  - Data analysis queries
+  - SQL queries
   - Aggregations
   - Views
 - **Power BI**
@@ -31,7 +31,8 @@ The goal is to identify key business trends, understand product and category per
   - Slicers
   - Dashboard design
 - **GitHub**
-  - Project version control and portfolio
+  - Version control
+  - Project portfolio
 
 ## 📁 Project Structure
 
@@ -47,4 +48,5 @@ E-Commerce-Sales-Customer-Analytics
 ├── SQL
 │   └── analysis_queries.sql
 │
+├── Dashboard.png
 └── README.md
